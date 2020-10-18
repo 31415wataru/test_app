@@ -36,7 +36,7 @@ h1{
 .title{
   color: #192f60;
   font-size: 90px;
-  font-family: "ＭＳ ゴシック",sans-serif; 
+  font-family: "ＭＳ ゴシック",sans-serif;
 }
 /*------------------------ここまで文字色-------------------------*/
 .seach_position{
@@ -70,4 +70,14 @@ font-size: 100px;
   margin-top: 50px;
   color: white;
   font-size: 80px;
+}
+/*------------------------ここまでsumple-------------------------*/
+#sumple_top img{
+  width: 95%;
+}
+.sumple_title{
+  color: #192f60;
+  font-size: 90px;
+  font-family: "ＭＳ ゴシック",sans-serif;
+  border-left: solid 30px;
 }

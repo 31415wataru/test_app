@@ -1,0 +1,43 @@
+.homeber{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  background-color: white;
+}
+.logo-home img{
+  margin-left: 3%;
+  width: 25%;
+  float: left;
+}
+.logo-profile img{
+  margin-left: 12%;
+  width: 20%;
+  float: left;
+}
+.logo-contact img{
+  margin-left: 11%;
+  width: 25%;
+  float: left;
+}
+/*------------------------ここまでheader-------------------------*/
+#toplogo img{
+  width: 95%;
+}
+/*------------------------ここまでトップ画像-------------------------*/
+input {
+  font-size: 150%;
+}
+/*------------------------ここまでinput要素-------------------------*/
+h1{
+  color: #192f60;
+}
+/*------------------------ここまで文字色-------------------------*/
+.seach_position{
+  font-size: 50px;
+  background-color:#00B050;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 30px;
+  text-decoration: none;
+}

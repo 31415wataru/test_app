@@ -88,10 +88,13 @@ font-size: 100px;
   margin-left: 20%;
   margin-right: 20%;
   border-radius: 30px;
-  background-color: :#00B050;
+  background-color: #00B050;
   font-size: 30px;
   text-align: center;
   margin-top: 50px;
   color: white;
   font-size: 80px;
+}
+.level img{
+  width: 80%;
 }

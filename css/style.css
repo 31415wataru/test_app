@@ -45,7 +45,7 @@ h1{
 /*------------------------ここまで位置検索-------------------------*/
 .profile-title{
 color: #192f60;
-font-size: 80px;
+font-size: 100px;
 }
 .icon img{
   width:50%;
@@ -54,7 +54,7 @@ font-size: 80px;
 .profile-text{
 color: #192f60;
 margin-left: 5%;
-font-size: 40px;
+font-size: 1000px;
 }
 .profile-text-level{
   clear: both;

@@ -110,3 +110,10 @@ input.leview{
     float: left;
     width: 50%;
 }
+td{
+  font-size: 60px;
+  color: #192f60;
+}
+table{
+  margin-left: 40px;
+}

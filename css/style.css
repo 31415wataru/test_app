@@ -122,3 +122,22 @@ table{
   font-size: 60px;
   color: #192f60;
 }
+/*------------------------ここまで個人chat-------------------------*/
+#comment{
+  font-size: 40px;
+  background-color: #00B050;
+  color: white;
+  border-radius: 15px;
+}
+#send{
+    font-size: 350%;
+}
+#searchber{
+  font-size: 400%;
+  width: 50%;
+}
+.header2{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}

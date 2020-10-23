@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/style.css" />
+  <title></title>
+</head>
+
+<body>
+  <p id="chat_title">焼肉○○草津店</p>
+  <script>
+    function change(ctrl) {
+      var g = document.getElementById('comment');
+      g.value = ctrl.value;
+    }
+  </script>
+  <form>
+    <p style="text-align: right">
+      <output id="comment"></output>
+    </p>
+    <input type="text" id="searchber"　class="header2" placeholder="chatをしてみよう" />
+    <input type="button" value="送信" id="send" class="header2" onclick="change(g_name)" />
+  </form>
+  <header>
+    <div class="homeber">
+      <center>
+        <div class="logo-home">
+          <a href="toppage.html"><img src="img/header_home.png"></a>
+        </div>
+        <div class="logo-profile">
+          <a href="profile.html"><img src="img/header_profile.png"></a>
+        </div>
+        <div class="logo-contact">
+          <a href="contact.html"><img src="img/header_chat.png"></a>
+        </div>
+      </center>
+    </div>
+  </header>
+</body>
+
+</html>

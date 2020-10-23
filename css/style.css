@@ -117,3 +117,8 @@ td{
 table{
   margin-left: 40px;
 }
+/*------------------------ここまでchat-------------------------*/
+#chat_title{
+  font-size: 60px;
+  color: #192f60;
+}
